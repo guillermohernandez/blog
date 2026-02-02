@@ -12,9 +12,9 @@ Several years ago I started my first job as a "senior" Go developer. You see, af
 
 Yup, as a senior developer only a few years out of college with no kids and a 6 figure salary, life was looking pretty easy. Well, it _would_ have been easy. It would have been easy if the mind-numbing, gelatinous, corporate goo known as _Java_ (it runs on billions of devices btw) hadn't chipped away at the once great minds of my new colleagues.
 
-We're going to talk about my struggles with unit tests at this new company. And mocks. And heroine injections. Erm, I mean dependency injections. _(but tbh both are just as bad for you)_
+We're going to talk about my struggles with unit tests at this new company. And mocks. And heroin injections. Erm, I mean dependency injections. _(but tbh both are just as bad for you)_
 
-![pam with heroine injections dependency injection](/img/800/heroinedeps.png.webp)
+![pam with heroin injections dependency injection](/img/800/heroinedeps.png.webp)
 
 **BUT...** before we do that, let me tell a quick story to give you some context about this new job.
 
